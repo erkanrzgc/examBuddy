@@ -1,5 +1,4 @@
 
-
 # ExamBuddy – Study Task Manager
 
 ExamBuddy is a lightweight Windows study planner built with WinForms. It lets you organize exam-week tasks, schedule study sessions, track status, and receive gentle reminders via the system tray.
