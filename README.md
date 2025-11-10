@@ -120,4 +120,3 @@ MIT License – see `LICENSE`.
 
 ---
 
-Let me know if you want this localized or want extra sections (screenshots, contributing, etc.).
