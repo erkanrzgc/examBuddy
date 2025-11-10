@@ -1,6 +1,4 @@
-Sure—here’s a richer README styled like the example you shared, but tailored to ExamBuddy. You can paste this into `README.md`:
 
----
 
 # ExamBuddy – Study Task Manager
 
